@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "788412609596",
+    "firebase_url": "https://sjceleave.firebaseio.com",
+    "project_id": "sjceleave",
+    "storage_bucket": "sjceleave.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788412609596:android:84efa0c2b3fb05ea387f39",
+        "android_client_info": {
+          "package_name": "com.example.sjceleave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788412609596-f3nqinsjkv9c9am43mid6oajg3vj9t6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sjceleave",
+            "certificate_hash": "98462ec6bdffc523d3d137800c2dae65b211d12a"
+          }
+        },
+        {
+          "client_id": "788412609596-evj1f98ojqfu05mdq6jdb47i236dgoc2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sjceleave",
+            "certificate_hash": "2b762c58b0fafa6c8bbb4d1a54fe19cbbc80a592"
+          }
+        },
+        {
+          "client_id": "788412609596-eekrg3j8sv10lajjn6r5cod40svl528s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEawPcNk-wB5hg3H44UKRd34vTL9oSwPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788412609596-eekrg3j8sv10lajjn6r5cod40svl528s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
